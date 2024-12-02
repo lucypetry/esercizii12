@@ -17,6 +17,10 @@ a {
   margin: 8px;
 }
 
+.link {
+  color: goldenrod;
+}
+
 .link:hover {
   color: brown;
 }
