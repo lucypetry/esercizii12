@@ -1,0 +1,13 @@
+body {
+  background-color: #011212;
+}
+
+.ball {
+  width: 100px;
+  height: 100px;
+  background-color: var(--my-color);
+  border-radius: 50px;
+}
+:root {
+  --my-color: blue;
+}
